@@ -112,13 +112,13 @@ OWASP Top 10 • MITRE ATT&CK • PTES • Cyber Kill Chain
 
 - **Cyber Security Engineer Bootcamp — Merdeka Siber**  
 - **Penetration Testing Bootcamp — Codelamp**  
-- TryHackMe Labs (add links)  
-- HackTheBox Starting Point (add links)
+- TryHackMe Labs !!DROP LINK HERE!! 
+- HackTheBox Starting Point !!DROP LINK HERE!!
 
 ---
 
 ## 📁 Sample Reports
-*Add links to PDF reports stored inside this repository:*
+!!DROP LINK HERE!!
 
 - Web Application Penetration Test Report  
 - Vulnerability Assessment Report  
