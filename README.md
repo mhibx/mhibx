@@ -7,7 +7,7 @@ Graduate of Merdeka Siber Cyber Security Engineer Bootcamp & Codelamp Pentesting
 📍 Bekasi, Indonesia  
 📧 mhibatullahwafi@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/mhwafi  
-🧑‍💻 TryHackMe: *REDACTED*  
+🧑‍💻 TryHackMe: https://tryhackme.com/p/mhibx 
 🧑‍💻 HackTheBox: *REDACTED*
 
 ---
@@ -45,8 +45,6 @@ I strengthen my skills daily through labs, home labs, and structured exercises.
 - Proof of Concepts  
 - Remediation suggestions  
 - Pentest-style documentation
-
-!!DROP LINK HERE!!
 
 ---
 
